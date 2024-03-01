@@ -1,0 +1,1 @@
+alert ("BEM-VINDOS A PÁGINA DO SENAC")

@@ -1,0 +1,125 @@
+body{
+    margin: 0;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.quadrado{
+    display: inline-block;
+    background-color: rgb(41, 11, 124);
+    text-align: center;
+    border-radius: 10px;
+    border-color: black;
+    align-self: center;
+    width: 300px;
+
+
+}
+ 
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quadrado a{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+
+#sabado{
+    background-color: rgb(41, 11, 124);
+    margin-top: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#q1{
+    margin-left: 14%;
+    
+}
+ h2{
+    color: cornsilk;
+ }
+
+ footer{
+    background-color: rgb(41, 11, 124);
+    text-align: center;
+    margin-top: 15%;
+ }
+
+.ruby{
+    display: inline-block;
+    align-self: baseline;
+    background-color: rgb(41, 11, 124);
+}
+
+li{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+div#z1{
+    display: block;
+    border: 3px;
+    border-radius: 2px;
+    background-color: rgb(41, 11, 124);
+    
+}
+
+.container{
+    border: 2px solid rgb(72, 14, 231);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color:rgb(41, 11, 124);
+    text-align: center;
+    display: inline-block;
+    margin-top: 8%;
+}
+
+
+#container-a{
+    background-color: rgb(41, 11, 124);
+    width: 400px;
+    margin-left: 20%;
+    height: 300px;
+
+
+    
+
+
+
+    
+
+    
+ 
+
+}
+
+#Container-b{
+    width: 500px;
+    background-color: rgb(41, 11, 124);
+    color: aliceblue;
+    text-align: left;
+    height: 500px;
+    float: right;
+    margin-right: 30%;
+    
+
+    
+    
+    
+
+}
+
+.container a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: brown;
+
+}
